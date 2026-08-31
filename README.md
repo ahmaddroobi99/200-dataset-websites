@@ -1,19 +1,11 @@
-# 200-dataset-websites
+# 200 dataset-source websites (25 categories)
 
-200 dataset-source websites organized into 25 categories — AI/AGI, science, government, health, geo, finance, and more.
+A curated catalog, not a crawler. Markdown lists of **dataset-source websites** grouped into ~25 categories (AI/ML hubs, science, government, health, geo, finance, …), plus starred GitHub repos parked under the matching category.
 
-This repository is **original work** on this account. It is kept for provenance.
+Start at `DATASET_WEBSITES.md` and `DATASET_WEBSITES_BATCH2.md`. Related notes: `STARRED_CLASSIFIED.md`, `PAPERS_PART2.md`, `VISHNU_AI_AGENT_LINKS.md`.
 
-It is **not** current research. Featured work:
+Companion crawler: [resource-graph-crawler](https://github.com/ahmaddroobi99/resource-graph-crawler).
 
-- [qg-lada-lab](https://github.com/ahmaddroobi99/qg-lada-lab) — QG Lagrangian data assimilation
-- [ai-perception-lab](https://github.com/ahmaddroobi99/ai-perception-lab) — computer vision lab
-- Profile: [github.com/ahmaddroobi99](https://github.com/ahmaddroobi99)
+---
+Related: [github.com/ahmaddroobi99](https://github.com/ahmaddroobi99)
 
-## Language
-
-source
-
-## Year
-
-2026
